@@ -16,3 +16,5 @@ Python, Pandas, Matplotlib, Seaborn
 ## Insights
 - Technology category has highest sales
 - Discounts reduce profitability
+
+  dataset link : https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
